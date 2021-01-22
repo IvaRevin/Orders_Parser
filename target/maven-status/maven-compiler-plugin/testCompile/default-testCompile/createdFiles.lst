@@ -1,0 +1,4 @@
+reader\SpringReadDataFromJsonTest.class
+runner\RunnerTest.class
+reader\SpringReadDataFromCsvTest.class
+service\SpringReadFileServiceTest.class
